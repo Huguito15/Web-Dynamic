@@ -1,0 +1,216 @@
+{
+  "meta": {
+    "title": "Dynamic Casaments | Fotografía y Vídeo Cinematográfico de Bodas en Sabadell y Barcelona",
+    "description": "Fotografía y vídeo cinematográfico de bodas en Sabadell y Barcelona. Capturamos la emoción real de tu día para que la vivas para siempre. Reserva tu fecha."
+  },
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "ideas": "+ Ideas Dynamic",
+    "gallery": "Galería",
+    "cinema": "Cinema",
+    "about": "Nosotros",
+    "testimonials": "Opiniones",
+    "contact": "Contacto",
+    "shop": "Tienda",
+    "cta": "Reserva tu fecha"
+  },
+  "hero": {
+    "eyebrow": "Fotografía & Cine de bodas · Sabadell, Barcelona",
+    "title": "Vuestra historia merece ser recordada como una película",
+    "subtitle": "El componente más importante de una cámara está detrás de ella",
+    "description": "Capturamos la emoción real de vuestro día: las miradas, los silencios, las lágrimas de alegría. Un archivo cinematográfico para revivir, generación tras generación.",
+    "ctaPrimary": "Reserva tu fecha",
+    "ctaSecondary": "Habla por WhatsApp",
+    "scrollHint": "Descubre nuestro trabajo"
+  },
+  "services": {
+    "eyebrow": "Servicios",
+    "title": "Obsequios exclusivos para novios",
+    "description": "Cada boda es única, por eso diseñamos paquetes a medida. Estas son nuestras propuestas base, todas ampliables con los extras que hagan de vuestro día algo irrepetible.",
+    "packages": [
+      {
+        "name": "Esencial",
+        "tagline": "La esencia de vuestro día, sin perderos ni un instante",
+        "price": "Desde 1.200€",
+        "features": [
+          "Cobertura fotográfica de 8 horas",
+          "1 fotógrafo profesional",
+          "Selección editada de +400 fotografías en alta resolución",
+          "Galería online privada para compartir con familia y amigos",
+          "Entrega en 6-8 semanas"
+        ]
+      },
+      {
+        "name": "Cinematográfico",
+        "tagline": "El más elegido: fotografía y vídeo en perfecta armonía",
+        "price": "Desde 2.100€",
+        "highlighted": true,
+        "features": [
+          "Cobertura fotográfica y de vídeo de 10 horas",
+          "1 fotógrafo + 1 videógrafo",
+          "Vídeo resumen cinematográfico de 4-6 minutos",
+          "Teaser emocional entregado en 24-48h",
+          "+600 fotografías editadas en alta resolución",
+          "Álbum digital y galería online privada",
+          "Entrega en 8-10 semanas"
+        ]
+      },
+      {
+        "name": "Signature",
+        "tagline": "La experiencia completa, sin renunciar a nada",
+        "price": "Desde 3.200€",
+        "features": [
+          "Cobertura completa de todo el día (preparativos a fiesta)",
+          "2 fotógrafos + 1 videógrafo",
+          "Vídeo documental largo + resumen cinematográfico",
+          "Teaser en 24h para redes sociales",
+          "Sesión de pareja incluida (preboda o postboda)",
+          "Álbum fotográfico impreso de alta gama",
+          "Vídeo con dron (según normativa del lugar)",
+          "Entrega prioritaria en 6 semanas"
+        ]
+      }
+    ],
+    "addonsTitle": "Extras para hacerlo aún más especial",
+    "addons": [
+      { "name": "Vídeo con dron", "description": "Planos aéreos cinematográficos de la finca y la celebración" },
+      { "name": "Álbum fotográfico premium", "description": "Impresión artesanal en tapa de piel o lino, diseño a medida" },
+      { "name": "Segundo fotógrafo", "description": "Doble perspectiva para no perder ningún ángulo del día" },
+      { "name": "Teaser en 24h", "description": "Un adelanto emotivo listo para compartir al día siguiente" },
+      { "name": "Sesión preboda", "description": "Una sesión relajada para conoceros ante la cámara antes del gran día" },
+      { "name": "USB o caja de recuerdos", "description": "Un objeto físico y bonito para guardar vuestros recuerdos" }
+    ],
+    "ctaText": "¿Quieres un presupuesto a medida?",
+    "ctaButton": "Solicita información"
+  },
+  "ideas": {
+    "eyebrow": "+ Ideas Dynamic",
+    "title": "Inspiración para vuestro gran día",
+    "description": "Tendencias, ideas de sesión y consejos de planificación para que cada detalle de vuestra boda tenga alma propia.",
+    "readMore": "Leer artículo",
+    "backToList": "Volver a todas las ideas",
+    "viewAll": "Ver todas las ideas"
+  },
+  "gallery": {
+    "eyebrow": "Galería",
+    "title": "Momentos que se quedan para siempre",
+    "description": "Una selección de instantes reales de bodas y celebraciones que hemos tenido el privilegio de fotografiar.",
+    "filters": {
+      "all": "Todas",
+      "wedding": "Bodas",
+      "preboda": "Prebodas",
+      "detail": "Detalles",
+      "party": "Celebración"
+    }
+  },
+  "cinema": {
+    "eyebrow": "Cinema",
+    "title": "Historias que se ven, se sienten y se recuerdan",
+    "description": "Nuestro portfolio de vídeo: documentales completos, teasers emotivos y planos aéreos que devuelven la vida a cada instante.",
+    "filters": {
+      "all": "Todos",
+      "teaser": "Teaser",
+      "documentary": "Documental",
+      "drone": "Dron"
+    },
+    "playLabel": "Reproducir vídeo"
+  },
+  "about": {
+    "eyebrow": "Nosotros",
+    "title": "El componente más importante de una cámara está detrás de ella",
+    "description": "Dynamic Casaments nace de una convicción: una cámara solo capta lo que el ojo detrás de ella sabe ver. Somos un equipo de fotógrafos y videógrafos de Sabadell especializados en bodas, apasionados por contar historias reales sin artificios.",
+    "paragraph2": "Llevamos más de una década documentando bodas en Barcelona y toda Cataluña. Cada proyecto empieza con una conversación: queremos conoceros, entender vuestra historia y saber qué momentos queréis que perduren para siempre. Después, nos volvemos invisibles el día del evento para que viváis cada segundo con total libertad.",
+    "values": [
+      { "title": "Autenticidad", "description": "Fotografía documental antes que posados forzados. Vuestra historia, tal cual sucede." },
+      { "title": "Cercanía", "description": "Un trato humano y cercano desde el primer contacto hasta la entrega final." },
+      { "title": "Excelencia técnica", "description": "Equipo cinematográfico profesional y un ojo entrenado para la luz y la composición." },
+      { "title": "Discreción", "description": "Estamos presentes sin interrumpir. La cámara desaparece, la emoción se queda." }
+    ],
+    "founderName": "Equipo Dynamic Casaments",
+    "founderRole": "Fotografía y dirección cinematográfica"
+  },
+  "testimonials": {
+    "eyebrow": "Opiniones reales",
+    "title": "Lo que dicen las parejas que confiaron en nosotros",
+    "description": "Testimonios reales de novios y novias que vivieron su boda con Dynamic Casaments.",
+    "reviewsLinkText": "Ver todas las reseñas en Bodas.net",
+    "items": [
+      {
+        "names": "Laura & Marc",
+        "quote": "Cuando vimos el vídeo lloramos como el mismo día de la boda. Consiguieron capturar momentos que ni nosotros vimos en directo. Un equipo profesional, discreto y con un ojo artístico impresionante.",
+        "location": "Boda en Sabadell"
+      },
+      {
+        "names": "Anna & Jordi",
+        "quote": "Desde la primera reunión supimos que eran ellos. Nos hicieron sentir cómodos delante de la cámara y el resultado fue muchísimo mejor de lo que imaginábamos. El teaser de 24h emocionó a todos los invitados.",
+        "location": "Boda en Barcelona"
+      },
+      {
+        "names": "Carla & David",
+        "quote": "La atención al detalle y la sensibilidad con la que trataron cada momento del día fue espectacular. El álbum es una auténtica obra de arte que enseñamos a todo el que viene a casa.",
+        "location": "Boda en Terrassa"
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contacto",
+    "title": "Empecemos a escribir vuestra historia",
+    "description": "Cuéntanos vuestra fecha y vuestra idea de boda soñada. Os responderemos en menos de 24 horas.",
+    "form": {
+      "name": "Nombre completo",
+      "email": "Correo electrónico",
+      "phone": "Teléfono",
+      "weddingDate": "Fecha de la boda (aproximada)",
+      "message": "Contadnos sobre vuestra boda",
+      "messagePlaceholder": "Lugar de celebración, número de invitados, estilo que buscáis...",
+      "submit": "Enviar mensaje",
+      "submitting": "Enviando...",
+      "success": "¡Gracias! Hemos recibido vuestro mensaje y os responderemos muy pronto.",
+      "error": "Ha ocurrido un error al enviar el formulario. Probad de nuevo o escribidnos por WhatsApp.",
+      "errors": {
+        "name": "Por favor, escribe tu nombre completo",
+        "email": "Introduce un correo electrónico válido",
+        "message": "Cuéntanos un poco más sobre vuestra boda"
+      }
+    },
+    "infoTitle": "También podéis encontrarnos en",
+    "addressLabel": "Estudio",
+    "phoneLabel": "Teléfono / WhatsApp",
+    "scheduleLabel": "Horario"
+  },
+  "shop": {
+    "eyebrow": "Tienda online",
+    "title": "Álbumes y sesiones extra",
+    "description": "Muy pronto podréis encargar álbumes premium, sesiones adicionales y productos de recuerdo directamente desde aquí.",
+    "comingSoon": "Próximamente",
+    "ctaText": "Mientras tanto, escríbenos y os preparamos un presupuesto personalizado."
+  },
+  "footer": {
+    "description": "Fotografía y vídeo cinematográfico de bodas en Sabadell y Barcelona.",
+    "sections": {
+      "navigation": "Navegación",
+      "legal": "Legal",
+      "contact": "Contacto",
+      "follow": "Síguenos"
+    },
+    "legalLinks": {
+      "notice": "Aviso legal",
+      "privacy": "Política de privacidad",
+      "cookies": "Política de cookies"
+    },
+    "rights": "Todos los derechos reservados."
+  },
+  "cookies": {
+    "text": "Utilizamos cookies propias y de terceros para mejorar tu experiencia y analizar la navegación. Puedes aceptar todas las cookies o configurar tus preferencias.",
+    "accept": "Aceptar todas",
+    "reject": "Rechazar no esenciales",
+    "settings": "Más información",
+    "learnMore": "Política de cookies"
+  },
+  "common": {
+    "whatsappCta": "Escríbenos por WhatsApp",
+    "callUs": "Llámanos",
+    "loading": "Cargando..."
+  }
+}

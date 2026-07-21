@@ -1,0 +1,216 @@
+{
+  "meta": {
+    "title": "Dynamic Casaments | Fotografia i Vídeo Cinematogràfic de Casaments a Sabadell i Barcelona",
+    "description": "Fotografia i vídeo cinematogràfic de casaments a Sabadell i Barcelona. Capturem l'emoció real del vostre dia perquè la visqueu per sempre. Reserva la teva data."
+  },
+  "nav": {
+    "home": "Inici",
+    "services": "Serveis",
+    "ideas": "+ Idees Dynamic",
+    "gallery": "Galeria",
+    "cinema": "Cinema",
+    "about": "Nosaltres",
+    "testimonials": "Opinions",
+    "contact": "Contacte",
+    "shop": "Botiga",
+    "cta": "Reserva la teva data"
+  },
+  "hero": {
+    "eyebrow": "Fotografia i cinema de casaments · Sabadell, Barcelona",
+    "title": "La vostra història es mereix ser recordada com una pel·lícula",
+    "subtitle": "El component més important d'una càmera és qui hi ha darrere",
+    "description": "Capturem l'emoció real del vostre dia: les mirades, els silencis, les llàgrimes d'alegria. Un arxiu cinematogràfic per reviure, generació rere generació.",
+    "ctaPrimary": "Reserva la teva data",
+    "ctaSecondary": "Parla per WhatsApp",
+    "scrollHint": "Descobreix la nostra feina"
+  },
+  "services": {
+    "eyebrow": "Serveis",
+    "title": "Obsequis exclusius per a nuvis",
+    "description": "Cada casament és únic, per això dissenyem paquets a mida. Aquestes són les nostres propostes base, totes ampliables amb els extres que facin del vostre dia quelcom irrepetible.",
+    "packages": [
+      {
+        "name": "Essencial",
+        "tagline": "L'essència del vostre dia, sense perdre'n cap instant",
+        "price": "Des de 1.200€",
+        "features": [
+          "Cobertura fotogràfica de 8 hores",
+          "1 fotògraf professional",
+          "Selecció editada de +400 fotografies en alta resolució",
+          "Galeria online privada per compartir amb família i amics",
+          "Lliurament en 6-8 setmanes"
+        ]
+      },
+      {
+        "name": "Cinematogràfic",
+        "tagline": "El més escollit: fotografia i vídeo en perfecta harmonia",
+        "price": "Des de 2.100€",
+        "highlighted": true,
+        "features": [
+          "Cobertura fotogràfica i de vídeo de 10 hores",
+          "1 fotògraf + 1 videògraf",
+          "Vídeo resum cinematogràfic de 4-6 minuts",
+          "Teaser emotiu lliurat en 24-48h",
+          "+600 fotografies editades en alta resolució",
+          "Àlbum digital i galeria online privada",
+          "Lliurament en 8-10 setmanes"
+        ]
+      },
+      {
+        "name": "Signature",
+        "tagline": "L'experiència completa, sense renunciar a res",
+        "price": "Des de 3.200€",
+        "features": [
+          "Cobertura completa de tot el dia (preparatius a festa)",
+          "2 fotògrafs + 1 videògraf",
+          "Vídeo documental llarg + resum cinematogràfic",
+          "Teaser en 24h per a xarxes socials",
+          "Sessió de parella inclosa (prewedding o postboda)",
+          "Àlbum fotogràfic imprès d'alta gamma",
+          "Vídeo amb dron (segons normativa del lloc)",
+          "Lliurament prioritari en 6 setmanes"
+        ]
+      }
+    ],
+    "addonsTitle": "Extres per fer-ho encara més especial",
+    "addons": [
+      { "name": "Vídeo amb dron", "description": "Plans aeris cinematogràfics de la finca i la celebració" },
+      { "name": "Àlbum fotogràfic premium", "description": "Impressió artesanal en tapa de pell o lli, disseny a mida" },
+      { "name": "Segon fotògraf", "description": "Doble perspectiva per no perdre cap angle del dia" },
+      { "name": "Teaser en 24h", "description": "Un avançament emotiu llest per compartir l'endemà" },
+      { "name": "Sessió prewedding", "description": "Una sessió relaxada per conèixer-vos davant la càmera abans del gran dia" },
+      { "name": "USB o capsa de records", "description": "Un objecte físic i bonic per guardar els vostres records" }
+    ],
+    "ctaText": "Vols un pressupost a mida?",
+    "ctaButton": "Sol·licita informació"
+  },
+  "ideas": {
+    "eyebrow": "+ Idees Dynamic",
+    "title": "Inspiració per al vostre gran dia",
+    "description": "Tendències, idees de sessió i consells de planificació perquè cada detall del vostre casament tingui ànima pròpia.",
+    "readMore": "Llegir l'article",
+    "backToList": "Tornar a totes les idees",
+    "viewAll": "Veure totes les idees"
+  },
+  "gallery": {
+    "eyebrow": "Galeria",
+    "title": "Moments que queden per sempre",
+    "description": "Una selecció d'instants reals de casaments i celebracions que hem tingut el privilegi de fotografiar.",
+    "filters": {
+      "all": "Totes",
+      "wedding": "Casaments",
+      "preboda": "Prewedding",
+      "detail": "Detalls",
+      "party": "Celebració"
+    }
+  },
+  "cinema": {
+    "eyebrow": "Cinema",
+    "title": "Històries que es veuen, se senten i es recorden",
+    "description": "El nostre portfolio de vídeo: documentals complets, teasers emotius i plans aeris que retornen la vida a cada instant.",
+    "filters": {
+      "all": "Tots",
+      "teaser": "Teaser",
+      "documentary": "Documental",
+      "drone": "Dron"
+    },
+    "playLabel": "Reproduir vídeo"
+  },
+  "about": {
+    "eyebrow": "Nosaltres",
+    "title": "El component més important d'una càmera és qui hi ha darrere",
+    "description": "Dynamic Casaments neix d'una convicció: una càmera només capta allò que l'ull que hi ha darrere sap veure. Som un equip de fotògrafs i videògrafs de Sabadell especialitzats en casaments, apassionats per explicar històries reals sense artificis.",
+    "paragraph2": "Portem més d'una dècada documentant casaments a Barcelona i tot Catalunya. Cada projecte comença amb una conversa: volem conèixer-vos, entendre la vostra història i saber quins moments voleu que perdurin per sempre. Després, ens tornem invisibles el dia de l'esdeveniment perquè visqueu cada segon amb total llibertat.",
+    "values": [
+      { "title": "Autenticitat", "description": "Fotografia documental abans que posats forçats. La vostra història, tal com passa." },
+      { "title": "Proximitat", "description": "Un tracte humà i proper des del primer contacte fins al lliurament final." },
+      { "title": "Excel·lència tècnica", "description": "Equip cinematogràfic professional i un ull entrenat per a la llum i la composició." },
+      { "title": "Discreció", "description": "Som presents sense interrompre. La càmera desapareix, l'emoció es queda." }
+    ],
+    "founderName": "Equip Dynamic Casaments",
+    "founderRole": "Fotografia i direcció cinematogràfica"
+  },
+  "testimonials": {
+    "eyebrow": "Opinions reals",
+    "title": "El que diuen les parelles que van confiar en nosaltres",
+    "description": "Testimonis reals de nuvis i núvies que van viure el seu casament amb Dynamic Casaments.",
+    "reviewsLinkText": "Veure totes les ressenyes a Bodas.net",
+    "items": [
+      {
+        "names": "Laura & Marc",
+        "quote": "Quan vam veure el vídeo vam plorar com el mateix dia del casament. Van aconseguir capturar moments que ni nosaltres vam veure en directe. Un equip professional, discret i amb un ull artístic impressionant.",
+        "location": "Casament a Sabadell"
+      },
+      {
+        "names": "Anna & Jordi",
+        "quote": "Des de la primera reunió vam saber que eren ells. Ens van fer sentir còmodes davant la càmera i el resultat va ser molt millor del que imaginàvem. El teaser de 24h va emocionar tots els convidats.",
+        "location": "Casament a Barcelona"
+      },
+      {
+        "names": "Carla & David",
+        "quote": "L'atenció al detall i la sensibilitat amb què van tractar cada moment del dia va ser espectacular. L'àlbum és una autèntica obra d'art que ensenyem a tothom qui ve a casa.",
+        "location": "Casament a Terrassa"
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contacte",
+    "title": "Comencem a escriure la vostra història",
+    "description": "Expliqueu-nos la vostra data i la vostra idea de casament somiat. Us respondrem en menys de 24 hores.",
+    "form": {
+      "name": "Nom complet",
+      "email": "Correu electrònic",
+      "phone": "Telèfon",
+      "weddingDate": "Data del casament (aproximada)",
+      "message": "Expliqueu-nos el vostre casament",
+      "messagePlaceholder": "Lloc de la celebració, nombre de convidats, estil que busqueu...",
+      "submit": "Enviar missatge",
+      "submitting": "Enviant...",
+      "success": "Gràcies! Hem rebut el vostre missatge i us respondrem molt aviat.",
+      "error": "S'ha produït un error en enviar el formulari. Proveu de nou o escriviu-nos per WhatsApp.",
+      "errors": {
+        "name": "Si us plau, escriu el teu nom complet",
+        "email": "Introdueix un correu electrònic vàlid",
+        "message": "Expliqueu-nos una mica més sobre el vostre casament"
+      }
+    },
+    "infoTitle": "També ens podeu trobar a",
+    "addressLabel": "Estudi",
+    "phoneLabel": "Telèfon / WhatsApp",
+    "scheduleLabel": "Horari"
+  },
+  "shop": {
+    "eyebrow": "Botiga online",
+    "title": "Àlbums i sessions extra",
+    "description": "Molt aviat podreu encarregar àlbums premium, sessions addicionals i productes de record directament des d'aquí.",
+    "comingSoon": "Properament",
+    "ctaText": "Mentrestant, escriviu-nos i us preparem un pressupost personalitzat."
+  },
+  "footer": {
+    "description": "Fotografia i vídeo cinematogràfic de casaments a Sabadell i Barcelona.",
+    "sections": {
+      "navigation": "Navegació",
+      "legal": "Legal",
+      "contact": "Contacte",
+      "follow": "Segueix-nos"
+    },
+    "legalLinks": {
+      "notice": "Avís legal",
+      "privacy": "Política de privacitat",
+      "cookies": "Política de cookies"
+    },
+    "rights": "Tots els drets reservats."
+  },
+  "cookies": {
+    "text": "Utilitzem cookies pròpies i de tercers per millorar la vostra experiència i analitzar la navegació. Podeu acceptar totes les cookies o configurar les vostres preferències.",
+    "accept": "Acceptar totes",
+    "reject": "Rebutjar no essencials",
+    "settings": "Més informació",
+    "learnMore": "Política de cookies"
+  },
+  "common": {
+    "whatsappCta": "Escriu-nos per WhatsApp",
+    "callUs": "Truca'ns",
+    "loading": "Carregant..."
+  }
+}

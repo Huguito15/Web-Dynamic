@@ -1,0 +1,216 @@
+{
+  "meta": {
+    "title": "Dynamic Casaments | Cinematic Wedding Photography & Film in Sabadell and Barcelona",
+    "description": "Cinematic wedding photography and film in Sabadell and Barcelona. We capture the real emotion of your day so you can relive it forever. Book your date."
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "ideas": "+ Dynamic Ideas",
+    "gallery": "Gallery",
+    "cinema": "Cinema",
+    "about": "About us",
+    "testimonials": "Reviews",
+    "contact": "Contact",
+    "shop": "Shop",
+    "cta": "Book your date"
+  },
+  "hero": {
+    "eyebrow": "Wedding photography & film · Sabadell, Barcelona",
+    "title": "Your story deserves to be remembered like a film",
+    "subtitle": "The most important part of a camera is the one standing behind it",
+    "description": "We capture the real emotion of your day: the glances, the silences, the tears of joy. A cinematic archive to relive, generation after generation.",
+    "ctaPrimary": "Book your date",
+    "ctaSecondary": "Chat on WhatsApp",
+    "scrollHint": "Discover our work"
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "Exclusive gifts for the couple",
+    "description": "Every wedding is unique, which is why we design tailor-made packages. These are our base proposals, all of them expandable with the extras that make your day one of a kind.",
+    "packages": [
+      {
+        "name": "Essential",
+        "tagline": "The essence of your day, without missing a single moment",
+        "price": "From €1,200",
+        "features": [
+          "8 hours of photography coverage",
+          "1 professional photographer",
+          "Edited selection of +400 high-resolution photographs",
+          "Private online gallery to share with family and friends",
+          "Delivery in 6-8 weeks"
+        ]
+      },
+      {
+        "name": "Cinematic",
+        "tagline": "Our most chosen package: photography and film in perfect harmony",
+        "price": "From €2,100",
+        "highlighted": true,
+        "features": [
+          "10 hours of photography and film coverage",
+          "1 photographer + 1 videographer",
+          "4-6 minute cinematic highlight film",
+          "Emotional teaser delivered in 24-48h",
+          "+600 edited high-resolution photographs",
+          "Digital album and private online gallery",
+          "Delivery in 8-10 weeks"
+        ]
+      },
+      {
+        "name": "Signature",
+        "tagline": "The full experience, without giving anything up",
+        "price": "From €3,200",
+        "features": [
+          "Full-day coverage (getting ready to party)",
+          "2 photographers + 1 videographer",
+          "Long-form documentary film + cinematic highlight",
+          "24h teaser for social media",
+          "Couple session included (engagement or post-wedding)",
+          "High-end printed photo album",
+          "Drone footage (subject to venue regulations)",
+          "Priority delivery in 6 weeks"
+        ]
+      }
+    ],
+    "addonsTitle": "Extras to make it even more special",
+    "addons": [
+      { "name": "Drone footage", "description": "Cinematic aerial shots of the venue and celebration" },
+      { "name": "Premium photo album", "description": "Handcrafted print with leather or linen cover, custom design" },
+      { "name": "Second photographer", "description": "A double perspective so no angle of the day is missed" },
+      { "name": "24h teaser", "description": "An emotional preview ready to share the very next day" },
+      { "name": "Engagement session", "description": "A relaxed session to get comfortable in front of the camera before the big day" },
+      { "name": "USB or memory box", "description": "A beautiful physical object to keep your memories" }
+    ],
+    "ctaText": "Want a tailor-made quote?",
+    "ctaButton": "Request information"
+  },
+  "ideas": {
+    "eyebrow": "+ Dynamic Ideas",
+    "title": "Inspiration for your big day",
+    "description": "Trends, session ideas and planning tips so every detail of your wedding has its own soul.",
+    "readMore": "Read article",
+    "backToList": "Back to all ideas",
+    "viewAll": "View all ideas"
+  },
+  "gallery": {
+    "eyebrow": "Gallery",
+    "title": "Moments that stay forever",
+    "description": "A selection of real moments from weddings and celebrations we've had the privilege to photograph.",
+    "filters": {
+      "all": "All",
+      "wedding": "Weddings",
+      "preboda": "Engagements",
+      "detail": "Details",
+      "party": "Celebration"
+    }
+  },
+  "cinema": {
+    "eyebrow": "Cinema",
+    "title": "Stories you can see, feel and remember",
+    "description": "Our video portfolio: full documentaries, emotional teasers and aerial shots that bring every moment back to life.",
+    "filters": {
+      "all": "All",
+      "teaser": "Teaser",
+      "documentary": "Documentary",
+      "drone": "Drone"
+    },
+    "playLabel": "Play video"
+  },
+  "about": {
+    "eyebrow": "About us",
+    "title": "The most important part of a camera is the one standing behind it",
+    "description": "Dynamic Casaments was born from a conviction: a camera only captures what the eye behind it knows how to see. We're a team of photographers and videographers from Sabadell specialized in weddings, passionate about telling real stories without artifice.",
+    "paragraph2": "We've spent over a decade documenting weddings in Barcelona and across Catalonia. Every project starts with a conversation: we want to get to know you, understand your story and learn which moments you want to last forever. Then, on the day itself, we become invisible so you can live every second with total freedom.",
+    "values": [
+      { "title": "Authenticity", "description": "Documentary photography over forced poses. Your story, exactly as it happens." },
+      { "title": "Closeness", "description": "A warm, personal approach from the first contact through to final delivery." },
+      { "title": "Technical excellence", "description": "Professional cinematic gear and an eye trained for light and composition." },
+      { "title": "Discretion", "description": "We're present without intruding. The camera disappears, the emotion stays." }
+    ],
+    "founderName": "Dynamic Casaments Team",
+    "founderRole": "Photography and cinematic direction"
+  },
+  "testimonials": {
+    "eyebrow": "Real reviews",
+    "title": "What the couples who trusted us have to say",
+    "description": "Real testimonials from brides and grooms who lived their wedding day with Dynamic Casaments.",
+    "reviewsLinkText": "See all reviews on Bodas.net",
+    "items": [
+      {
+        "names": "Laura & Marc",
+        "quote": "When we saw the film we cried just like we did on the wedding day itself. They captured moments we didn't even see live. A professional, discreet team with an impressive artistic eye.",
+        "location": "Wedding in Sabadell"
+      },
+      {
+        "names": "Anna & Jordi",
+        "quote": "From the very first meeting we knew they were the ones. They made us feel comfortable in front of the camera and the result was so much better than we imagined. The 24h teaser moved every guest.",
+        "location": "Wedding in Barcelona"
+      },
+      {
+        "names": "Carla & David",
+        "quote": "The attention to detail and the sensitivity with which they treated every moment of the day was spectacular. The album is a true work of art we show everyone who visits.",
+        "location": "Wedding in Terrassa"
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let's start writing your story",
+    "description": "Tell us your date and your dream wedding idea. We'll get back to you in less than 24 hours.",
+    "form": {
+      "name": "Full name",
+      "email": "Email address",
+      "phone": "Phone",
+      "weddingDate": "Wedding date (approximate)",
+      "message": "Tell us about your wedding",
+      "messagePlaceholder": "Venue, number of guests, style you're going for...",
+      "submit": "Send message",
+      "submitting": "Sending...",
+      "success": "Thank you! We've received your message and will get back to you soon.",
+      "error": "There was an error sending the form. Please try again or write to us on WhatsApp.",
+      "errors": {
+        "name": "Please enter your full name",
+        "email": "Please enter a valid email address",
+        "message": "Tell us a bit more about your wedding"
+      }
+    },
+    "infoTitle": "You can also find us on",
+    "addressLabel": "Studio",
+    "phoneLabel": "Phone / WhatsApp",
+    "scheduleLabel": "Opening hours"
+  },
+  "shop": {
+    "eyebrow": "Online shop",
+    "title": "Albums and extra sessions",
+    "description": "Soon you'll be able to order premium albums, extra sessions and keepsake products directly from here.",
+    "comingSoon": "Coming soon",
+    "ctaText": "In the meantime, write to us and we'll prepare a personalised quote."
+  },
+  "footer": {
+    "description": "Cinematic wedding photography and film in Sabadell and Barcelona.",
+    "sections": {
+      "navigation": "Navigation",
+      "legal": "Legal",
+      "contact": "Contact",
+      "follow": "Follow us"
+    },
+    "legalLinks": {
+      "notice": "Legal notice",
+      "privacy": "Privacy policy",
+      "cookies": "Cookie policy"
+    },
+    "rights": "All rights reserved."
+  },
+  "cookies": {
+    "text": "We use our own and third-party cookies to improve your experience and analyse browsing. You can accept all cookies or configure your preferences.",
+    "accept": "Accept all",
+    "reject": "Reject non-essential",
+    "settings": "Learn more",
+    "learnMore": "Cookie policy"
+  },
+  "common": {
+    "whatsappCta": "Message us on WhatsApp",
+    "callUs": "Call us",
+    "loading": "Loading..."
+  }
+}
