@@ -11,7 +11,6 @@ Sabadell y Barcelona.
 - **Lucide React** para iconografía
 - **react-hook-form + zod** para el formulario de contacto
 - **yet-another-react-lightbox** para la galería
-- **Google Gemini API** para el asistente de chat de soporte
 
 ## Cómo editar contenido (sin tocar código)
 
@@ -30,19 +29,6 @@ npm run dev      # http://localhost:3000
 npm run build    # build de producción
 npm run lint
 ```
-
-## Variables de entorno
-
-Crea un archivo `.env.local` en la raíz (no se sube a git) con:
-
-```
-GEMINI_API_KEY=tu_clave_de_google_ai_studio
-GEMINI_MODEL=gemini-2.5-flash   # opcional, este es el valor por defecto
-```
-
-Consigue una clave gratuita en https://aistudio.google.com/apikey. Si despliegas en Vercel, añade estas mismas
-variables en **Project → Settings → Environment Variables**. Sin `GEMINI_API_KEY`, el asistente de chat responde
-con un error controlado en vez de fallar.
 
 ## Placeholders pendientes de sustituir antes de publicar
 
@@ -63,9 +49,6 @@ con un error controlado en vez de fallar.
 - **Datos fiscales (NIF/CIF, razón social):** en `app/legal/aviso-legal/page.tsx` y `app/legal/privacidad/page.tsx`.
 - **Reseñas de Opiniones:** los tres testimonios en los diccionarios (`testimonials.items`) son ilustrativos;
   sustituir por citas reales de clientes (con su permiso).
-- **Clave de Gemini para el chat de soporte:** añadir `GEMINI_API_KEY` como variable de entorno (ver sección
-  "Variables de entorno" más abajo). El texto que usa el asistente para responder está en `lib/chatSystemPrompt.ts`
-  y hay que mantenerlo sincronizado si cambian precios o paquetes.
 
 ## Estructura de carpetas
 
