@@ -212,5 +212,16 @@
     "whatsappCta": "Escriu-nos per WhatsApp",
     "callUs": "Truca'ns",
     "loading": "Carregant..."
+  },
+  "chat": {
+    "title": "Assistent Dynamic Casaments",
+    "subtitle": "Pregunta'ns sobre els nostres serveis",
+    "greeting": "Hola! Sóc l'assistent virtual de Dynamic Casaments. Puc ajudar-vos amb dubtes sobre els nostres paquets de fotografia i vídeo de casaments. En què us puc ajudar?",
+    "placeholder": "Escriu la teva pregunta...",
+    "send": "Enviar",
+    "openLabel": "Obrir xat d'assistència",
+    "closeLabel": "Tancar xat",
+    "error": "No he pogut respondre ara mateix. Prova de nou o escriu-nos per WhatsApp.",
+    "disclaimer": "Respostes generades per IA. Per reservar, contacteu amb nosaltres."
   }
 }
