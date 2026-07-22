@@ -7,6 +7,7 @@ import { Footer } from "@/components/layout/Footer";
 import { WhatsAppButton } from "@/components/layout/WhatsAppButton";
 import { CookieBanner } from "@/components/layout/CookieBanner";
 import { PageLoader } from "@/components/layout/PageLoader";
+import { ChatWidget } from "@/components/layout/ChatWidget";
 import { siteConfig } from "@/data/siteConfig";
 
 const displayFont = Playfair_Display({
@@ -114,6 +115,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
           <main>{children}</main>
           <Footer />
           <WhatsAppButton />
+          <ChatWidget />
           <CookieBanner />
         </LanguageProvider>
       </body>

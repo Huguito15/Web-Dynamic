@@ -212,5 +212,16 @@
     "whatsappCta": "Message us on WhatsApp",
     "callUs": "Call us",
     "loading": "Loading..."
+  },
+  "chat": {
+    "title": "Dynamic Casaments Assistant",
+    "subtitle": "Ask us about our services",
+    "greeting": "Hi! I'm Dynamic Casaments' virtual assistant. I can help with questions about our wedding photography and film packages. How can I help?",
+    "placeholder": "Type your question...",
+    "send": "Send",
+    "openLabel": "Open support chat",
+    "closeLabel": "Close chat",
+    "error": "I couldn't reply right now. Please try again or message us on WhatsApp.",
+    "disclaimer": "AI-generated answers. To book, please contact us."
   }
 }
